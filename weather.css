@@ -1,0 +1,26 @@
+body{
+    background-image: url('WhatsApp\ Image\ 2024-05-02\ at\ 04.40.20.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.btn:focus {
+    color: black;
+    opacity: 1;
+}
+.firstsec{
+    background: linear-gradient( 180deg, #0a2f81, #668be3, #fb8383  );
+    box-shadow: 40px;
+}
+
+/* #display{
+  background: #F8F9FB;
+} */
+#display {
+  display: none;
+}
+
+.cityname{
+  font-size: 40px;
+  color: black
+}
